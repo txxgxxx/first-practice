@@ -1,3 +1,4 @@
+Name == OIEH_geo2n
 폴더에 들어가 git bash here
 
 git add filename.확장자명
