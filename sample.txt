@@ -1,1 +1,7 @@
-첫번째 라인 생성
+폴더에 들어가 git bash here
+
+git add filename.확장자명
+
+git commit -m "version 2 created"
+
+git push origin master
