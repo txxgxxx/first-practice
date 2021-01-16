@@ -5,3 +5,5 @@ git add filename.확장자명
 git commit -m "version 2 created"
 
 git push origin master
+
+웹에서 수정 시
