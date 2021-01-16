@@ -3,7 +3,10 @@
 git add filename.확장자명
 
 git commit -m "version 2 created"
-
 git push origin master(서버 업로드)
 
 git puㅣㅣ origin master(서버 다운로드)
+
+웹에서 수정 시
+
+서버 다운로드 - 업로드 - 오류 확인 - 수정 - 서버 업로드
